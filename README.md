@@ -1,16 +1,24 @@
-## Hi there 👋
+# Bonjour, je suis Rania 👋
 
-<!--
-**rania-amouri/rania-amouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiante en BTS SIO (option SLAM) en recherche d'alternance en développement web.
 
-Here are some ideas to get you started:
+Je suis en reconversion vers le développement web, motivée par un projet
+concret : j'ai créé et configuré un site e-commerce Shopify de A à Z,
+en touchant au code (HTML, CSS, Liquid) pour personnaliser l'expérience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ce projet m'a donné le goût du web et l'envie d'aller plus loin.
+Aujourd'hui je cherche une alternance pour apprendre sérieusement,
+progresser vite, et contribuer concrètement dès le premier jour.
+
+## 🛠️ Compétences
+- HTML / CSS
+- JavaScript (bases)
+- Liquid Shopify
+- Shopify (configuration & personnalisation)
+
+## 📌 Mon projet
+🌿 [The Tira Sanctuary](https://thetirtasanctuary.com) — site e-commerce
+créé et géré de façon autonome
+
+## 📫 Me contacter
+- Email : rania92800@email.com
