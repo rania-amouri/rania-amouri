@@ -1,4 +1,4 @@
-# Bonjour, je suis Rania 👋
+# Bonjour, je m'appelle Rania 👋
 
 Étudiante en BTS SIO (option SLAM) en recherche d'alternance en développement web.
 
